@@ -1,6 +1,6 @@
 <!-- Animated Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Surjya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Open%20Source&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Swastikaa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Open%20Source&descAlignY=58&descSize=20" width="100%" />
 </div>
 
 <!-- Typing SVG Animation -->
@@ -14,8 +14,8 @@
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://github.com/swastiks272007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-swastiks272007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/swastika272007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-swastika272007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
